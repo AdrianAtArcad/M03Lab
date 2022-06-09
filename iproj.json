@@ -1,0 +1,15 @@
+{
+    "description": "Merlin03",
+    "version": "0.0.1",
+    "includePath": [
+        "M03_SRC/QPROTOSRC    "
+    ],
+    "repository": "git@github.com:AdrianAtArcad/M03Lab.git",
+    "objlib": "&L01",
+    "curlib": "*CRTDFT",
+    "extensions": {
+        "arcad": {
+            "libraryPrefix": "M03"
+        }
+    }
+}
